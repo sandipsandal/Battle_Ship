@@ -28,7 +28,7 @@ namespace Battle_Ship
         }
 
         /// <summary>
-        /// 
+        /// This prints game board.
         /// </summary>
         /// <param name="board"></param>
 
